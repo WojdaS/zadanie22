@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+
+h1,
+h3 {
+    background-color: greenyellow
+}
+
+h1:nth-of-type(h3) {
+    color: blue;
+}
